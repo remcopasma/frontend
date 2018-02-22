@@ -53,20 +53,23 @@ del {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
-} ```
+} 
+ ```
  
 
 ## Don't use @import 
 ```<style type="text/css>
   @import url('a.css');
   @import url('b.css');
-</style> ```
+</style>  
+ ```
 ### Explain which div you’re closing
 ``` <div id="header">
   <div id="sub" class="first left">
     ...
   </div><!-- #sub.first.left -->
-</div><!-- #header --> ```
+</div><!-- #header --> 
+ ```
 # Image Gallery
 # Async API Data
 
